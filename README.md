@@ -1,4 +1,4 @@
-# NIST SP 800-171 Compliance Scanner
+# NIST SP 800-171 R2 Compliance Scanner
 
 A comprehensive Python-based network security assessment tool that scans networks and endpoints for compliance with NIST SP 800-171 Rev 2 requirements. The scanner automatically generates compliance reports in multiple formats, calculates SPRS scores, creates network topology diagrams, and produces Plan of Action & Milestones (POA&M) documents.
 
